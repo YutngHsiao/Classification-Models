@@ -15,4 +15,7 @@ Data pre-processing in this test includes 3 steps:
 3.  Data transformation: Center and scale
 
 # Visulization
-Leaflet, polygons, and popups info with embedded ggplot
+Leaflet map, polygons, and popups info with embedded ggplot
+
+#DEMO
+
