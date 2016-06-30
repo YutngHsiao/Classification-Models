@@ -1,4 +1,4 @@
-# classifications
+# Classifications
 ANN &amp; Predictive models
 
 
